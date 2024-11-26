@@ -2,4 +2,4 @@
 
 <h2>I am glad to welcome you to my account</h2>
 
-How to reach me: https://www.linkedin.com/in/yanashcherbatovska/
+How to reach me: <a https://www.linkedin.com/in/yanashcherbatovska/>LinkedIn</a>
